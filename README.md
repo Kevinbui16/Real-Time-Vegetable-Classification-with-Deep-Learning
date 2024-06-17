@@ -34,8 +34,12 @@ Two folders exist: vegetable_deep_learning_build_model and vegetable_deep_learni
 #### - Usage -
 * **Run dataset model** by running `python dataset.py`
 * **Train Resnet50 model** by running `python train.py` .You can change the parameters inside it.For example: `python train.py -e 30`
-* **Test your trained model with image** by running `python inference.py`. For example: `python test.py -e path/to/image.jpg`
-* **Test your trained model with video** by running `python inference_video.py`. For example: `python test.py -e path/to/image.jpg`
-  
+* **Test your trained model with image** by running `python inference.py`. For example: `python inference.py -e path/to/image.jpg`
+* **Test your trained model with video** by running `python inference_video.py`. For example: `python inference_video.py -e path/to/video.mp4`
+* **Test your trained model with live camera** by running `python inference_live_camera.py`
+
+#### -TensorBoard Training Visualizations-
+
+
 
 
