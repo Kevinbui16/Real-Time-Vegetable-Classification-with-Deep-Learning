@@ -4,6 +4,11 @@
 
 This project has implemented two deep-learning models in classifying vegetables through pictures, videos, and live feeds from cameras: a self-built CNN, and a pre-trained ResNet50 model. It was noted that the ResNet50 model performed much better in accuracy from the first epoch itself at 98%, while the custom-built model took about nine epochs before getting such performance.
 
+## Motivation 🌟
+I started with the basic models of CNNs but soon hit a wall in the real-time classification of vegetables—my models weren't good enough then! 🥦🎥 Fueled by this challenge, I tried out several architectures, though none cut it until I came across ResNet50. Known for its depth and efficiency, it seemed like a perfect fit, considering how depth correlates positively with model performance.🚀
+
+I'm diving deep into using ResNet50 for changing vegetable classification in dynamic environments. Let's see this baby grow!🌱💪
+
 ## Requirements
 
 To run this project, you will need the following libraries:
@@ -123,6 +128,10 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
   <img src="visualization/both_tensorboard.png" width="500" height="320">
   <img src="visualization/both_tensorboard_heatmap.png" width="500" height="320">
 </p>
+
+## Results
+The ResNet50 model outperforms the custom-built CNN, achieving higher accuracy in fewer epochs. This efficiency highlights the advantages of using pre-trained models for specific image classification tasks.
+
 
 
 
