@@ -101,8 +101,8 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 </p>
 
 <p align="center">
-  <img src="visualization/Picture_Predict_ResNet.png" width=600><br/>
-  <i>ResNet50 picture prediction demo</i>
+  <img src="visualization/Picture_Predict_build_model.png" width=600><br/>
+  <i>CNN picture prediction demo</i>
 </p>
 
 <p align="center">
