@@ -9,21 +9,6 @@ I started with the basic models of CNNs but soon hit a wall in the real-time cla
 
 I'm diving deep into using ResNet50 for changing vegetable classification in dynamic environments. Let's see this baby grow!🌱💪
 
-## Requirements🛠️
-
-To run this project, you will need the following libraries:
-
-| Libraries               |
-|------------------------ |
-| Pytorch                 |  
-| Sklearn                 |  
-| OpenCV                  |   
-| Numpy                   |  
-| argparse                |  
-| os                      |  
-| shutil                  |  
-| Matplotlib              |  
-
 ## File Descriptions📄
 
 - **dataset.py**: Script for loading and preprocessing the dataset.
@@ -131,7 +116,20 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 ## Results📝
 The ResNet50 model outperforms the custom-built CNN, achieving higher accuracy in fewer epochs. This efficiency highlights the advantages of using pre-trained models for specific image classification tasks.
 
+## Requirements🛠️
 
+To run this project, you will need the following libraries:
+
+| Libraries               |
+|------------------------ |
+| Pytorch                 |  
+| Sklearn                 |  
+| OpenCV                  |   
+| Numpy                   |  
+| argparse                |  
+| os                      |  
+| shutil                  |  
+| Matplotlib              |  
 
 
 
