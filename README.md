@@ -9,6 +9,11 @@ I started with the basic models of CNNs but soon hit a wall in the real-time cla
 
 I'm diving deep into using ResNet50 for changing vegetable classification in dynamic environments. Let's see this baby grow!🌱💪
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5vNTM3aHEyaDRzeGZrY3c0dmRuZHB4dWJ5M29lNXN1MDZqdmRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZbYn4oHxydD5oqXa7g/giphy.gif" style="max-width:100%; height:auto;">
+</p>
+
+
 ## Data Source📊
 This dataset is taken from Kaggle, the link to which is: 
   - https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
