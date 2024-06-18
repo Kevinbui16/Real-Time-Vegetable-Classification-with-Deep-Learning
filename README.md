@@ -1,15 +1,15 @@
-# Vegetable Classification Using Deep Learning
+# Vegetable Classification Using Deep Learning🌱
 
 ## Introduction
 
-This project has implemented two deep-learning models in classifying vegetables through pictures, videos, and live feeds from cameras: a self-built CNN, and a pre-trained ResNet50 model. It was noted that the ResNet50 model performed much better in accuracy from the first epoch itself at 98%, while the custom-built model took about nine epochs before getting such performance.
+This project has implemented two deep-learning models in classifying vegetables through pictures, videos, and live feeds from cameras: a self-built CNN, and a pre-trained ResNet50 model. It was noted that the ResNet50 model performed much better in accuracy from the first epoch itself at 98%, while the custom-built model took about nine epochs before getting such performance.🚀
 
 ## Motivation 🌟
 I started with the basic models of CNNs but soon hit a wall in the real-time classification of vegetables—my models weren't good enough then! 🥦🎥 Fueled by this challenge, I tried out several architectures, though none cut it until I came across ResNet50. Known for its depth and efficiency, it seemed like a perfect fit, considering how depth correlates positively with model performance.🚀
 
 I'm diving deep into using ResNet50 for changing vegetable classification in dynamic environments. Let's see this baby grow!🌱💪
 
-## Requirements
+## Requirements🛠️
 
 To run this project, you will need the following libraries:
 
@@ -24,7 +24,7 @@ To run this project, you will need the following libraries:
 | shutil                  |  
 | Matplotlib              |  
 
-## File Descriptions
+## File Descriptions📄
 
 - **dataset.py**: Script for loading and preprocessing the dataset.
 - **model.py**: Contains the architectures of both the ResNet50 and the custom CNN model.
@@ -34,8 +34,7 @@ To run this project, you will need the following libraries:
 
 ## How to use my code
 
-
-#### - Usage -
+#### - Usage -🔧
 * **Run dataset model** by running `python dataset.py`
 * **Train Resnet50 model** by running `python train.py` .You can change the parameters inside it.For example: `python train.py -e 30`
 * **Train CNN(self-built) model** by running `train_build_model.py` .You can change the parameters inside it.For example: `python train_build_model.py -e 50`
@@ -44,7 +43,7 @@ To run this project, you will need the following libraries:
 * **Test your trained model with live camera** by running `python inference_live_camera.py`
 
 
-## Testing model
+## Testing model📊
 ### --ResNet50--
 <p align="center">
   <strong><i>-Live Camera Prediction(ResNet50)-</i></strong>
@@ -57,7 +56,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 </p>
 
 <p align="center">
-  <strong><i>-Video Prediction(ResNet50)-</i></strong>
+  <strong><i>-Video Prediction(ResNet50)🎥-</i></strong>
 </p>
 
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/84100d43-fa46-441f-85ca-0966998b31f4
@@ -72,7 +71,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 </p>
 
 <p align="center">
-  <strong><i>-TensorBoard Training Visualizations(ResNet50)-</i></strong>
+  <strong><i>-TensorBoard Training Visualizations(ResNet50)📈-</i></strong>
 </p>
 
 <p align="center">
@@ -129,7 +128,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
   <img src="visualization/both_tensorboard_heatmap.png" width="500" height="320">
 </p>
 
-## Results
+## Results📝
 The ResNet50 model outperforms the custom-built CNN, achieving higher accuracy in fewer epochs. This efficiency highlights the advantages of using pre-trained models for specific image classification tasks.
 
 
