@@ -75,9 +75,9 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
   <img src="visualization/Heatmap_process_Resnet50.png" width="500" height="320">
   <p align="center">
     <img src="visualization/Heatmap_Resnet50.png" width=600><br/>
-    
   </p>
 </p>
+
 
 
 
