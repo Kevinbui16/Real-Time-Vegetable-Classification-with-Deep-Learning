@@ -44,6 +44,14 @@ Two folders exist: vegetable_deep_learning_build_model and vegetable_deep_learni
   <img src="https://jmp.sh/yFQrSFmn" width=600><br/>
   <i>Tetris dem</i>
 </p>
+<p align="center">
+  <video width="600" autoplay loop>
+    <source src="https://jmp.sh/V2mzIZpd" type="video/mp4">
+    Your browser does not support the video tag.
+  </video><br/>
+  <i>Tetris d</i>
+</p>
+
 The demo could also be found at [youtube demo](https://youtu.be/g96x6uATAR8)
 
 
