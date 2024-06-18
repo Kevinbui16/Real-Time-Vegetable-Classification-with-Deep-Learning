@@ -1,6 +1,6 @@
 # Vegetable Classification Using Deep Learning🌱
 
-## Introduction
+## Introduction📖
 
 This project has implemented two deep-learning models in classifying vegetables through pictures, videos, and live feeds from cameras: a self-built CNN, and a pre-trained ResNet50 model. It was noted that the ResNet50 model performed much better in accuracy from the first epoch itself at 98%, while the custom-built model took about nine epochs before getting such performance.🚀
 
