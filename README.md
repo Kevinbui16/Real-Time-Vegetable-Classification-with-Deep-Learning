@@ -41,7 +41,7 @@ To run this project, you will need the following libraries:
 #### -TensorBoard Training Visualizations-
 #### Testing model
 <p align="center">
-  <strong><i>-Live Camera Prediction-</i></strong>
+  <strong><i>-Live Camera Prediction(ResNet50)-</i></strong>
 </p>
 
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/3146f2c7-581d-42a5-a90b-e87f6352764f
@@ -52,11 +52,14 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 
 
 <p align="center">
-  <strong><i>Video Prediction</i></strong>
+  <strong><i>Video Prediction(ResNet50)</i></strong>
 </p>
 
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/84100d43-fa46-441f-85ca-0966998b31f4
 
+<p align="center">
+  The demo could also be found at: https://youtu.be/JpxL3SVMqXg
+</p>
 
 
 
