@@ -48,8 +48,14 @@ Two folders exist: vegetable_deep_learning_build_model and vegetable_deep_learni
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/3146f2c7-581d-42a5-a90b-e87f6352764f
 
 <p align="center">
+  The demo could also be found at: https://youtu.be/JpxL3SVMqXg
+</p>
+
+
+<p align="center">
   <strong><i>Video Prediction</i></strong>
 </p>
+
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/84100d43-fa46-441f-85ca-0966998b31f4
 
 
@@ -63,7 +69,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 
 
 
-The demo could also be found at [youtube demo](https://youtu.be/g96x6uATAR8)
+
 
 
 
