@@ -110,10 +110,10 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 </p>
 
 <p align="center">
-  <img src="visualization/training_process_Resnet50.png" width="500" height="320">
-  <img src="visualization/Heatmap_process_Resnet50.png" width="500" height="320">
+  <img src="visualization/training_process_build_model.png" width="500" height="320">
+  <img src="visualization/Heatmap_process_build_model.png" width="500" height="320">
   <p align="center">
-    <img src="visualization/Heatmap_Resnet50.png" width=600><br/>
+    <img src="visualization/heatmap_build_model.png" width=600><br/>
   </p>
 </p>
 
