@@ -121,7 +121,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
   </p>
 </p>
 
-## Comparing model TensorBoard
+## TensorBoard Model Comparison ⚖️
 
 <p align="center">
   <img src="visualization/both_tensorboard.png" width="500" height="320">
