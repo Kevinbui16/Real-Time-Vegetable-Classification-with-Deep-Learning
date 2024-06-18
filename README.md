@@ -44,7 +44,7 @@ To run this project, you will need the following libraries:
   <strong><i>-Live Camera Prediction(ResNet50)-</i></strong>
 </p>
 
-https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/3146f2c7-581d-42a5-a90b-e87f6352764f
+https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/d201cdaf-7cda-447e-9006-656f2fdcfb47
 
 <p align="center">
   The demo could also be found at: https://youtu.be/2jMpMTP0_S8
