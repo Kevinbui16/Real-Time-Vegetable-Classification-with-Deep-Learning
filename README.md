@@ -52,7 +52,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 </p>
 
 <p align="center">
-  <strong><i>Video Prediction(ResNet50)</i></strong>
+  <strong><i>-Video Prediction(ResNet50)-</i></strong>
 </p>
 
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/84100d43-fa46-441f-85ca-0966998b31f4
@@ -67,7 +67,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 </p>
 
 <p align="center">
-  <strong><i>TensorBoard Training Visualizations(ResNet50)</i></strong>
+  <strong><i>-TensorBoard Training Visualizations(ResNet50)-</i></strong>
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 
 
 <p align="center">
-  <strong><i>Video Prediction(CNN)</i></strong>
+  <strong><i>-Video Prediction(CNN)-</i></strong>
 </p>
 
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/4079d15b-bee7-48ef-952d-b49eb35f980a
@@ -106,7 +106,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 </p>
 
 <p align="center">
-  <strong><i>TensorBoard Training Visualizations(ResNet50)</i></strong>
+  <strong><i>-TensorBoard Training Visualizations(CNN)-</i></strong>
 </p>
 
 <p align="center">
