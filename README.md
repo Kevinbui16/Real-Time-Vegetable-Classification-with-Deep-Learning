@@ -28,19 +28,18 @@ To run this project, you will need the following libraries:
 - **inference.py, inference_video.py, inference_live_camera.py**: These scripts handle inference for images, videos, and real-time camera feeds, respectively.
 
 ## How to use my code
-Two folders exist: vegetable_deep_learning_build_model and vegetable_deep_learning_ResNet_model. Both of them have the same structure, except for the models.
 
-### ResNet50 Model
 
 #### - Usage -
 * **Run dataset model** by running `python dataset.py`
 * **Train Resnet50 model** by running `python train.py` .You can change the parameters inside it.For example: `python train.py -e 30`
+* **Train CNN(self-built) model** by running `train_build_model.py` .You can change the parameters inside it.For example: `python train_build_model.py -e 50`
 * **Test your trained model with image** by running `python inference.py`. For example: `python inference.py -e path/to/image.jpg`
 * **Test your trained model with video** by running `python inference_video.py`. For example: `python inference_video.py -e path/to/video.mp4`
 * **Test your trained model with live camera** by running `python inference_live_camera.py`
 
 #### -TensorBoard Training Visualizations-
-
+#### Testing model
 <p align="center">
   <strong><i>-Live Camera Prediction-</i></strong>
 </p>
