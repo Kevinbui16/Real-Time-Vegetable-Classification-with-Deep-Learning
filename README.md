@@ -9,6 +9,10 @@ I started with the basic models of CNNs but soon hit a wall in the real-time cla
 
 I'm diving deep into using ResNet50 for changing vegetable classification in dynamic environments. Let's see this baby grow!🌱💪
 
+## Data Source📊
+This dataset is taken from Kaggle, the link to which is: 
+  - https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
+
 ## File Descriptions📄
 
 - **dataset.py**: Script for loading and preprocessing the dataset.
@@ -28,7 +32,7 @@ I'm diving deep into using ResNet50 for changing vegetable classification in dyn
 * **Test your trained model with live camera** by running `python inference_live_camera.py`
 
 
-## Testing model📊
+## Testing model🔍
 ### --ResNet50--
 <p align="center">
   <strong><i>-Live Camera Prediction(ResNet50)-</i></strong>
@@ -130,6 +134,8 @@ To run this project, you will need the following libraries:
 | os                      |  
 | shutil                  |  
 | Matplotlib              |  
+
+
 
 
 
