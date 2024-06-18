@@ -40,17 +40,28 @@ Two folders exist: vegetable_deep_learning_build_model and vegetable_deep_learni
 * **Test your trained model with live camera** by running `python inference_live_camera.py`
 
 #### -TensorBoard Training Visualizations-
+
 <p align="center">
-  <img src="https://jmp.sh/yFQrSFmn" width=600><br/>
-  <i>Tetris dem</i>
+  <strong><i>-Live Camera Prediction-</i></strong>
 </p>
+
+https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/3146f2c7-581d-42a5-a90b-e87f6352764f
+
 <p align="center">
-  <video width="600" autoplay loop>
-    <source src="https://jmp.sh/V2mzIZpd" type="video/mp4">
-    Your browser does not support the video tag.
-  </video><br/>
-  <i>Tetris d</i>
+  <strong><i>Video Prediction</i></strong>
 </p>
+https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/84100d43-fa46-441f-85ca-0966998b31f4
+
+
+
+
+
+
+
+
+
+
+
 
 The demo could also be found at [youtube demo](https://youtu.be/g96x6uATAR8)
 
