@@ -32,7 +32,7 @@ To run this project, you will need the following libraries:
 - **train_build_model.py**: Scripts to train CNN models from the file model.py, with TensorBoard integration for monitoring.
 - **inference.py, inference_video.py, inference_live_camera.py**: These scripts handle inference for images, videos, and real-time camera feeds, respectively.
 
-## How to use my code
+## How to use my code🤔
 
 #### - Usage -🔧
 * **Run dataset model** by running `python dataset.py`
@@ -56,7 +56,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 </p>
 
 <p align="center">
-  <strong><i>-Video Prediction(ResNet50)🎥-</i></strong>
+  <strong><i>-Video Prediction(ResNet50)-</i></strong>
 </p>
 
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/84100d43-fa46-441f-85ca-0966998b31f4
