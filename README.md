@@ -38,8 +38,8 @@ To run this project, you will need the following libraries:
 * **Test your trained model with video** by running `python inference_video.py`. For example: `python inference_video.py -e path/to/video.mp4`
 * **Test your trained model with live camera** by running `python inference_live_camera.py`
 
-#### -TensorBoard Training Visualizations-
-#### Testing model
+
+## Testing model
 <p align="center">
   <strong><i>-Live Camera Prediction(ResNet50)-</i></strong>
 </p>
@@ -60,6 +60,27 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 <p align="center">
   The demo could also be found at: https://youtu.be/JpxL3SVMqXg
 </p>
+
+<p align="center">
+  <img src="visualization/Picture_Predict_ResNet.png" width=600><br/>
+  <i>ResNet50 picture prediction demo</i>
+</p>
+
+<p align="center">
+  <strong><i>TensorBoard Training Visualizations(ResNet50)</i></strong>
+</p>
+
+<p align="center">
+  <img src="visualization/training_process_Resnet50.png" width="500" height="320">
+  <img src="visualization/Heatmap_process_Resnet50.png" width="500" height="320">
+  <p align="center">
+    <img src="visualization/Heatmap_Resnet50.png" width=600><br/>
+    
+  </p>
+</p>
+
+
+
 
 
 
