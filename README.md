@@ -80,29 +80,24 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
 
 ### --CNN--
 <p align="center">
-  <strong><i>-Live Camera Prediction-</i></strong>
+  <strong><i>-Live Camera Prediction(CNN)-</i></strong>
 </p>
-
-
 
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/f184f8b0-60a1-4b1e-800b-d7aed77b4531
 
-
-
-
 <p align="center">
-  The demo could also be found at: https://youtu.be/2jMpMTP0_S8
+  The demo could also be found at: https://youtu.be/zskBZvCnLAc
 </p>
 
 
 <p align="center">
-  <strong><i>Video Prediction(ResNet50)</i></strong>
+  <strong><i>Video Prediction(CNN)</i></strong>
 </p>
 
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/84100d43-fa46-441f-85ca-0966998b31f4
 
 <p align="center">
-  The demo could also be found at: https://youtu.be/JpxL3SVMqXg
+  The demo could also be found at: https://youtu.be/E7zyE_TDg-s
 </p>
 
 <p align="center">
