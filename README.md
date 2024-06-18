@@ -40,18 +40,16 @@ To run this project, you will need the following libraries:
 
 
 ## Testing model
---ResNet50--
+### --ResNet50--
 <p align="center">
   <strong><i>-Live Camera Prediction(ResNet50)-</i></strong>
 </p>
 
 https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/0303c59f-f4f6-44f2-9593-c6408fd48cbd
 
-
 <p align="center">
   The demo could also be found at: https://youtu.be/2jMpMTP0_S8
 </p>
-
 
 <p align="center">
   <strong><i>Video Prediction(ResNet50)</i></strong>
@@ -80,10 +78,9 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
   </p>
 </p>
 
-
-## Testing model
+### --CNN--
 <p align="center">
-  <strong><i>-Live Camera Prediction(ResNet50)-</i></strong>
+  <strong><i>-Live Camera Prediction-</i></strong>
 </p>
 
 
