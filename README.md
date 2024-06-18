@@ -40,6 +40,10 @@ Two folders exist: vegetable_deep_learning_build_model and vegetable_deep_learni
 * **Test your trained model with live camera** by running `python inference_live_camera.py`
 
 #### -TensorBoard Training Visualizations-
+<p align="center">
+  <img src="https://jmp.sh/V2mzIZpd" width=600><br/>
+  <i>Tetris demo</i>
+</p>
 The demo could also be found at [youtube demo](https://youtu.be/g96x6uATAR8)
 
 
