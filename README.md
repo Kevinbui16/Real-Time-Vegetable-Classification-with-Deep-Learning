@@ -117,6 +117,15 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
   </p>
 </p>
 
+## Comparing model TensorBoard
+
+<p align="center">
+  <img src="visualization/both_tensorboard.png" width="500" height="320">
+  <img src="visualization/both_tensorboard_heatmap.png" width="500" height="320">
+</p>
+
+
+
 
 
 
