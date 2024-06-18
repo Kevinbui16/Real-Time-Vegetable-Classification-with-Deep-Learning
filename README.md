@@ -94,7 +94,7 @@ https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learn
   <strong><i>Video Prediction(CNN)</i></strong>
 </p>
 
-https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/84100d43-fa46-441f-85ca-0966998b31f4
+https://github.com/Kevinbui16/Real-Time-Vegetable-Classification-with-Deep-Learning/assets/122188085/4079d15b-bee7-48ef-952d-b49eb35f980a
 
 <p align="center">
   The demo could also be found at: https://youtu.be/E7zyE_TDg-s
