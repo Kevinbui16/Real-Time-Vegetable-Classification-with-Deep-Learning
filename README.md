@@ -18,6 +18,7 @@ I'm diving deep into using ResNet50 for changing vegetable classification in dyn
 This dataset is taken from Kaggle, the link to which is: 
   - https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
 
+  - This dataset contains images from 15 classes, each comprising 1400 images. The proportion and picture resolution in this dataset is the same: 224×224, in *.jpg format.
 ## File Descriptions📄
 
 - **dataset.py**: Script for loading and preprocessing the dataset.
